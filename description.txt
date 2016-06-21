@@ -1,0 +1,27 @@
+Projeto Patógenos
+
+Precisamos de um sistema de informação que, a partir das informações registradas por estações climatológicas, encaminhe alertas para produtores rurais sobre as necessidades de pulverização e irrigação da lavoura. Todos os  produtores envolvidos, cadastrados no sistema, devem receber comunicações. 
+
+O objetivo é auxiliar no controle e prevenção do desenvolvimento de patógenos e proporcionar condições para irrigação adequada das culturas.
+
+Para atender os objetivos o sistema de informação deverá atender a alguns requisitos, tais como:
+Cadastrar produtores rurais
+Obter os dados monitorados pela estação climatológica (os dados serão disponibilizados em uma tabela disponível em um arquivo)
+Analisar os dados para determinar as ações necessárias por parte do produtor (de acordo com um conjunto de regras)
+A partir dos resultados, emitir alertas aos produtores sobre necessidade de pulverização de lavoura (incluir alertas em uma lista que será consultada pelos produtores)
+Obter confirmação da pulverização por parte do produtor para controles posteriores.
+
+Requisito extra
+Analisar os dados obtidos para identificar a necessidade de irrigação, considerando volume e frequência.
+Enviar notificação ao produtor sobre a forma de irrigação.
+O sistema deverá fornecer para  o produtor uma interface para consultar os alertas direcionados a ele e para que o produtor possa fornecer informações sobre as providências de pulverização (e irrigação) que foram tomadas. 
+
+O produtor poderá também consultar dados meteorológicos disponibilizados pelas estações.
+
+Apesar de ser direcionado inicialmente a uma localização mais restrita (uma única estação meteorológica), a uma única cultura e patógeno, e a poucos produtores, o sistema deve ser flexível para facilitar futuras expansões.
+
+Expansões futuras envolverão o suporte a mais produtores, várias estações climatológicas, de tipos diferentes e distribuídas em diversas áreas geográficas. Além de possibilitar a introdução de regras diferentes de pulverização para patógenos diversos (o sistema deve ser desenvolvido a partir de regras que podem ser modificadas e adaptadas a outras culturas)
+
+Para fins do projeto da disciplina será desenvolvido um modelo de classes e implementada uma interface simples baseada em caracteres.
+
+Para o projeto será necessário também simular uma Estação Meteorológia e os processos de coleta dos dados climatológicos e geração de alertas.
