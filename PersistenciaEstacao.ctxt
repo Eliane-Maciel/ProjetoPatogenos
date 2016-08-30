@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=estacao
+comment0.target=void\ guardaLista(EstacaoMetereologica)
+comment1.params=
+comment1.target=EstacaoMetereologica\ recuperaLista()
+numComments=2

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ListaTabelaDados\ leituraArquivo()
+comment0.text=\n\ \ \ \ /**\n\ Leitura\ de\ Arquivo\ -\ l\u00EA\ um\ arquivo\ csv,\ e\ cria\ objetos\ "DadoDia".\n\ \n\ @param\ \n\ @return\ \ Lista\ com\ os\ Dados\n
+comment1.params=dado
+comment1.target=int\ calculoPontos(DadoDia)
+comment1.text=\n\ \ \ \ /**\n\ Calculo\ Pontos\ \ -\ recebe\ um\ objeto\ do\ dia,\ e\ faz\ os\ testes\ para\ os\ pontos.\n\ \n\ @param\ objeto\ DadoDia\n\ @return\ \ Lista\ com\ os\ Dados\n
+comment2.params=
+comment2.target=void\ alertas()
+comment2.text=\n\ \ \ \ /**\n\ Alertas\ \ -\ faz\ a\ soma\ de\ pontos,\ por\ dias.\ Quando\ chega\ a\ 100\ pontos\ gera\ os\ objetos\ alertas.\n\ \n\ @param\ -\n\ @return\ \ -\n
+comment3.params=alerta
+comment3.target=void\ gerarAlertas(Alerta)
+comment3.text=\n\ \ \ \ /**\n\ Gerar\ Alertas\ \ -\ recebe\ um\ objeto\ alerta\ e\ inclui\ na\ lista\ de\ alertas\ do\ produtor.\n\ \n\ @param\ -\ object\ Alerta\n\ @return\ \ -\n
+numComments=4

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getPontos()
+comment0.text=\n\ Exemplo\ de\ m\u00E9todo\ -\ substitua\ este\ coment\u00E1rio\ pelo\ seu\ pr\u00F3prio\n\ \n\ @param\ \ y\ \ \ exemplo\ de\ um\ par\u00E2metro\ de\ m\u00E9todo\n\ @return\ \ \ \ \ a\ soma\ de\ x\ com\ y\ \n
+comment1.params=pontos
+comment1.target=void\ setPontos(int)
+comment2.params=
+comment2.target=java.lang.String\ getUltimaData()
+comment3.params=data
+comment3.target=void\ setUltimaData(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getMensagem()
+comment5.params=mens
+comment5.target=void\ setMensagem(java.lang.String)
+numComments=6

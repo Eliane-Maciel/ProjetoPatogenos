@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=data\ mensagem
+comment0.target=Alerta(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getData()
+comment2.params=
+comment2.target=java.lang.String\ getMensagem()
+comment3.params=
+comment3.target=boolean\ getRealizada()
+comment4.params=
+comment4.target=void\ realizarPulverizacao()
+comment5.params=
+comment5.target=java.lang.String\ verAlerta()
+numComments=6

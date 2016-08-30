@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ListaTabelaDados()
+comment1.params=dado
+comment1.target=void\ incluir(DadoDia)
+comment2.params=indice
+comment2.target=DadoDia\ get(int)
+comment3.params=
+comment3.target=int\ tamanho()
+numComments=4

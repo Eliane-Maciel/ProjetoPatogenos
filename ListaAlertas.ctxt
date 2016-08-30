@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ListaAlertas()
+comment1.params=alerta
+comment1.target=int\ incluir(Alerta)
+comment2.params=indice
+comment2.target=Alerta\ get(int)
+comment3.params=
+comment3.target=int\ tamanho()
+comment4.params=quantas
+comment4.target=void\ setQuantas(int)
+numComments=5

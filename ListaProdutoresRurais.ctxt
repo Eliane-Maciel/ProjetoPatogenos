@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ListaProdutoresRurais()
+comment1.params=produtor
+comment1.target=boolean\ incluir(ProdutorRural)
+comment2.params=indice
+comment2.target=ProdutorRural\ get(int)
+comment3.params=
+comment3.target=int\ tamanho()
+comment4.params=nome
+comment4.target=ProdutorRural\ getPorNome(java.lang.String)
+numComments=5

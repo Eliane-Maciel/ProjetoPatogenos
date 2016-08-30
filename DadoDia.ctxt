@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=data\ media\ chuva\ foliar
+comment0.target=DadoDia(java.lang.String,\ double,\ double,\ int)
+comment0.text=\n\ COnstrutor\ para\ objetos\ da\ classe\ TabelaDados\n
+comment1.params=data
+comment1.target=void\ setData(java.lang.String)
+comment10.params=
+comment10.target=int\ getPontos()
+comment2.params=
+comment2.target=java.lang.String\ getData()
+comment3.params=temp
+comment3.target=void\ setTemp(double)
+comment4.params=
+comment4.target=double\ getTemp()
+comment5.params=chuva
+comment5.target=void\ setChuva(double)
+comment6.params=
+comment6.target=double\ getChuva()
+comment7.params=fol
+comment7.target=void\ setFoliar(int)
+comment8.params=
+comment8.target=int\ getFoliar()
+comment9.params=numero
+comment9.target=void\ setPontos(int)
+numComments=11
